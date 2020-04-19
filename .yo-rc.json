@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "guru.springframework"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "TasksAppMongo",
+    "packageName": "guru.springframework",
+    "packageFolder": "guru/springframework",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZWVmZjM5MjA0M2U3NzM0OTkzYjZmZDkyYWU4Zjg2ZmIxM2Y2N2U4ZTNjMmU4MDE5N2ZjM2JiOWE2MjQ2OTMzYTEwMmRiYWU3MzFjMDliOTZlMDNmMTVhMzM5ZGUxZWI2ODgwNjk4YmM1N2UyM2M0YjNiM2EyNjQ4ODgxZDgwYjY=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1587338682705,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
