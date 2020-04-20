@@ -1,3 +1,9 @@
+# Notes
+
+```
+jhipster import-jdl tasks-jdl.jh
+```
+
 # Git
 
 ```
